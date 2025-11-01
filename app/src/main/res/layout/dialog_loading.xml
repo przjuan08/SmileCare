@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@drawable/dialog_background">
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        app:SpinKit_Color="@color/primary"
+        app:SpinKit_Style="FadingCircle"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cargando..."
+        android:textColor="@color/text_primary"
+        android:textSize="14sp"
+        android:gravity="center" />
+
+</LinearLayout>

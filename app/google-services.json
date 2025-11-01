@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684881754121",
+    "project_id": "smilecare-bb2cc",
+    "storage_bucket": "smilecare-bb2cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684881754121:android:051669a6b3dbc9270920d8",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.smilecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktdyALuXzDNyjED2KvGUZXMW-tUKtjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

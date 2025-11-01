@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmileCare</string>
+
+    <!-- Auth -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="no_account">¿No tienes cuenta? Créala aquí</string>
+    <string name="already_have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="register">Crear cuenta</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="login_with">Iniciar sesión con</string>
+
+    <!-- Main Menu -->
+    <string name="consultar_doctores">Consultar Doctores</string>
+    <string name="agendar_cita">Agendar Cita</string>
+    <string name="mis_citas">Mis Citas</string>
+
+    <!-- Common -->
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="guardar">Guardar</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+    <!-- Facebook -->
+    <string name="default_web_client_id">TU_WEB_CLIENT_ID_AQUI</string>
+    <string name="facebook_app_id">802488972467587</string>
+    <string name="facebook_client_token">0fd0d44dd5631ff71979defa826b9a81</string>
+</resources>
