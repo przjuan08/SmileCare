@@ -16,7 +16,9 @@ _SmileCare_
 4. Elegir un dispositivo y correr el proyecto.
 
 ## Links para manual técnico y manual de usuario
-Link:
+En la carpeta de Google Drive se encuentran el Manual Técnico y el Manual de Usuario respectivamente.
+
+Link: https://drive.google.com/drive/folders/1D5qlY4tZHS_uP8AeCtKjJhOzuGomJFVn?usp=sharing
 
 ## Link para Mockups en Figma
 Link: https://www.figma.com/design/QTD1a4DyHPgG9GSRxmKqYD/Primera-Fase---Proyecto-de-c%C3%A1tedra?node-id=0-1&t=xmyIQbjtheUqJNIc-1
